@@ -1,16 +1,28 @@
-# hackathon
+# SarthiApp
+Your search for the perfect roomie ends here!  
+Flutter-based frontend for AI-powered roommate matching and room recommendation system.
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🚀 Features
+- Profile Setup (Name, Age, Gender, Phone, City)
+- Lifestyle Survey (Eating, Sleeping, Cleaning, Personality, Smoking)
+- AI-Based Compatibility Scoring (Frontend logic + ready for backend)
+- Matches Screen (Shows dummy roommates with compatibility & rent)
+- Roommate Details (with Anonymous Chat)
+- Ask Question Community Feature
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- **Frontend:** Flutter
+- **Backend (To be integrated):** Firebase / Node.js / Python
+- **Database:** Firebase / PostgreSQL / MongoDB (Backend dev can decide)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚡ How to Run Frontend
+1. Install [Flutter](https://docs.flutter.dev/get-started/install).
+2. Clone the repo:
+   ```bash
+   git clone https://github.com/HeenaBathyal/sarthiapp.git
