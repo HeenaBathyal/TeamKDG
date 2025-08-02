@@ -5,10 +5,10 @@ Flutter-based frontend for AI-powered roommate matching and room recommendation 
 ---
 
 ## 🚀 Features
-- Profile Setup (Name, Age, Gender, Phone, City)
+- Account Creation (Full Name,Last Name, DOB, Phone, Password)
 - Lifestyle Survey (Eating, Sleeping, Cleaning, Personality, Smoking)
-- AI-Based Compatibility Scoring (Frontend logic + ready for backend)
 - Matches Screen (Shows dummy roommates with compatibility & rent)
+- AI-Based Compatibility Scoring (Frontend logic + ready for backend)
 - Roommate Details (with Anonymous Chat)
 - Ask Question Community Feature
 
@@ -16,8 +16,8 @@ Flutter-based frontend for AI-powered roommate matching and room recommendation 
 
 ## 🛠 Tech Stack
 - **Frontend:** Flutter
-- **Backend (To be integrated):** Firebase / Node.js / Python
-- **Database:** Firebase / PostgreSQL / MongoDB (Backend dev can decide)
+- **Backend:** Flask/Postman
+- **Database:** SQLite
 
 ---
 
