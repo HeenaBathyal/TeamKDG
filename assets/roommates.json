@@ -1,0 +1,50 @@
+[
+  {
+    "name": "stinkypinky",
+    "image": "https://picsum.photos/200/200?1",
+    "gender": "Female",
+    "age": 23,
+    "address": "Mumbai, Maharashtra",
+    "diet": "Veg",
+    "sleepHabit": "Early Riser",
+    "smoke": "No",
+    "noiseTolerance": "Moderate",
+    "personality": "Introvert"
+  },
+  {
+    "name": "hanu",
+    "image": "https://picsum.photos/200/200?2",
+    "gender": "Female",
+    "age": 24,
+    "address": "Delhi, India",
+    "diet": "Non-Veg",
+    "sleepHabit": "Night Owl",
+    "smoke": "Yes",
+    "noiseTolerance": "Loud",
+    "personality": "Extrovert"
+  },
+  {
+    "name": "bhonu",
+    "image": "https://picsum.photos/200/200?3",
+    "gender": "Male",
+    "age": 26,
+    "address": "Bangalore, India",
+    "diet": "Vegan",
+    "sleepHabit": "Early Riser",
+    "smoke": "No",
+    "noiseTolerance": "Low",
+    "personality": "Ambivert"
+  },
+  {
+    "name": "grey",
+    "image": "https://picsum.photos/200/200?4",
+    "gender": "Female",
+    "age": 22,
+    "address": "Hyderabad, India",
+    "diet": "Doesn’t Matter",
+    "sleepHabit": "Not Certain",
+    "smoke": "Doesn’t Matter",
+    "noiseTolerance": "Doesn’t Matter",
+    "personality": "Introvert"
+  }
+]
