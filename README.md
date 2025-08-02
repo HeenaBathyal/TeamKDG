@@ -18,6 +18,8 @@ Flutter-based frontend for AI-powered roommate matching and room recommendation 
 - **Frontend:** Flutter
 - **Backend:** Flask/Postman
 - **Database:** SQLite
+- **AIML:** pandas, numpy,soundfile, sentence_transformers, speechbrain.pretrained
+- 
 
 ---
 
